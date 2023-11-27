@@ -54,6 +54,6 @@ The project is organized as follows:
 - The application uses Spring Security for general security configuration, with specific routes being secured as mentioned above.
 
 ### Link: 
-http://ec2-52-59-252-210.eu-central-1.compute.amazonaws.com:3131/swagger-ui/index.html
+http://ec2-3-123-24-222.eu-central-1.compute.amazonaws.com:3131/swagger-ui/index.html
 
 
