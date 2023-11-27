@@ -4,6 +4,8 @@
 
 The Airline Ticket API is a Java-based application for managing airline tickets and flights. It provides functionality for flight management, ticket purchasing, and user authentication.
 
+![AirlineDB_ERD](https://github.com/ahmetkoc35/Airline-Ticket-API/assets/114762109/bfdecc00-b9b8-4835-8edf-6db3b8dc1a13)
+
 ## Project Structure
 
 The project is organized as follows:
@@ -50,3 +52,8 @@ The project is organized as follows:
 - JWT is used for securing the Ticket-related operations. All ticket management actions require a valid JWT token for authentication.
 - The Flight section, especially the query operations, do not have JWT-based security, making them accessible without authentication.
 - The application uses Spring Security for general security configuration, with specific routes being secured as mentioned above.
+
+### Link: 
+http://ec2-52-59-252-210.eu-central-1.compute.amazonaws.com:3131/swagger-ui/index.html
+
+
